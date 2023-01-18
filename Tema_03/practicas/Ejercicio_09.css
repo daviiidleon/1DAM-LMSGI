@@ -1,0 +1,11 @@
+article{ 
+  transform: rotate(-60deg);
+}
+#parrafo{
+  border: solid;
+  border-radius: 20px;
+  background-color: aquamarine;
+  border-color: black;
+  width: 200px;
+  padding: 30px;
+}
