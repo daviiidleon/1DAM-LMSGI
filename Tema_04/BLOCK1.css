@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+    background-color: #E5D1D0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.cr7{
+    background-color: #CEEEDB;
+    margin-top: 10px;
+}
+header{
+    color: #839788;
+}
+#box_rotate{
+    font-size: 20px;
+    width: 500px;
+    margin: auto;
+}
+img:hover{
+    -webkit-transform: rotateY(180deg);
+    -webkit-transform-style: preserve-3d;
+}
