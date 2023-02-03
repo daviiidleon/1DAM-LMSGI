@@ -1,0 +1,98 @@
+.cr7{
+    font-size: 40px;
+    color: #70560d;
+    font-family: fantasy;
+}
+.messi{
+    font-size: 25px;
+    color: #c3a655;
+    font-family: fantasy;
+}
+body{
+    color: black;
+    background-image: url(MJI6.jpg);
+}
+header{
+    text-align: center;
+    border-radius: 4px;
+    background-size: 100%;
+    margin-left: -20px;
+    margin-right: -8px;
+}
+.varane{
+    height: 100px;
+    width: 400px;
+}
+nav{
+    text-align: center;
+}
+.bale{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 17px;
+}
+button{
+    background: linear-gradient(to top, #efd99b, #f8edcd);
+    font-size: 17px;
+    font-family: Comic Sans;
+    border-radius: 10px;
+    color: #aa512f;
+    margin: 6px;
+}
+#gaya{
+    margin-left: 40px;
+    margin-right: 750px ;
+}
+#cavani{
+    margin-left: 40px;
+    margin-right: 750px ;
+}
+#benzema{
+    margin-left: 40px;
+    margin-right: 750px ;
+}
+#isco{
+    margin-left: 40px;
+    margin-right: 750px ;
+}
+#canales{
+    margin-left: 40px;
+    margin-right: 750px ;
+}
+#lukaku{
+    margin-left: 40px;
+    margin-right: 750px ;
+}
+#marcelo{
+    margin-left: 40px;
+    margin-right: 750px ;
+}
+#footerContainerFixed {
+    text-align: center;
+    background-color: #70560d;
+    font-size: 15px;
+    height: 60px;
+    width: 1500px;
+    margin: 0 auto;
+}
+#footerContactContent {
+    color: white;
+    margin-left: 100px;
+    display: inline;
+    font-weight: bold;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    float: left;
+    height: auto;
+    width: auto;
+}
+#footerPrivacyContent {
+    margin-left: 70px;
+    color: white;
+    display: inline;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    height: auto;
+    width: auto;
+    float: left;
+}
