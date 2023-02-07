@@ -1,0 +1,85 @@
+.cr7{
+    font-size: 40px;
+    color: #70560d;
+    font-family: fantasy;
+}
+.messi{
+    font-size: 25px;
+    color: #c3a655;
+    font-family: fantasy;
+}
+body{
+    color: black;
+    background-image: url(MJI6.jpg);
+    background-repeat: no-repeat;
+}
+header{
+    text-align: center;
+    border-radius: 4px;
+    background-size: 100%;
+    margin-left: -20px;
+    margin-right: -8px;
+}
+.varane{
+    height: 100px;
+    width: 400px;
+}
+nav{
+    text-align: center;
+    margin-top: 15px;
+}
+button{
+    background: #efd99b;
+    padding: 7px;
+    border: 2px solid;
+    border-radius: 5px;
+    border-color: black;
+    margin: 4px;
+}
+button:hover {
+    color: darkgoldenrod;
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}  
+.bale{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 13px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+    border: solid;
+    border-color: black;
+    border-radius: 7px;
+    background-color: #c3a655;
+}
+.maradona{
+    width: ;
+    height: ;
+    margin-top: 4%;
+    margin-left: 10%;
+}
+.maradona:hover{
+    border-radius:50%;
+    -webkit-border-radius:50%;
+    box-shadow: 0px 0px 15px 15px #ec731e;
+    -webkit-box-shadow: 0px 0px 15px 15px #ec731e;
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+}
+footer{
+    border: solid;
+    border-radius: 4px;
+    background-color: #70560d;
+    color: black;
+    margin-top: 6%;
+    margin-left: 4%;
+    margin-right: 4%;
+    font-size: 15px;
+    text-align: center;
+}
+.tamaño{
+    width: 22px;
+    height: 22px;
+}
+
