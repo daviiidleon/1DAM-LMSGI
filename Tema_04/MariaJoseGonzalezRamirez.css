@@ -1,0 +1,98 @@
+.cr7{
+    font-size: 40px;
+    color: #5b1f00;
+    font-family: fantasy;
+}
+.messi{
+    font-size: 25px;
+    color: #713112;
+    font-family: fantasy;
+}
+body{
+    color: black;
+    background-image: url(MJI6.jpg);
+    background-repeat: no-repeat;
+}
+header{
+    text-align: center;
+    border-radius: 4px;
+    background-size: 100%;
+    margin-left: -20px;
+    margin-right: -8px;
+}
+.varane{
+    height: 100px;
+    width: 400px;
+}
+nav{
+    text-align: center;
+    margin-top: 15px;
+}
+button{
+    color: white;
+    background: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 7px;
+    border: 2px solid;
+    border-radius: 5px;
+    border-color: white;
+    margin: 4px;
+}
+button:hover {
+    color: darkgoldenrod;
+    box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}  
+.bale{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black; text-shadow: pink 0.1em 0.1em 0.2em;
+    font-size: 12px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+    border-color: black;
+    border-width: 7px;
+    border-style: solid;
+    background: white;
+}
+.deulofeu{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black; text-shadow: pink 0.1em 0.1em 0.2em;
+    font-size: 12px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+    border-color: black;
+    border-width: 7px;
+    border-style: solid;
+    background-color: white;
+}
+.maradona{
+    margin-top: 4%;
+    margin-left: 10%;
+    border-radius: 10px;
+}
+.maradona:hover{
+    border-radius:50%;
+    -webkit-border-radius:50%;
+    box-shadow: 0px 0px 15px 15px #713112;
+    -webkit-box-shadow: 0px 0px 15px 15px #713112;
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+}
+footer{
+    border: solid;
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+    margin-top: 5%;
+    margin-left: 4%;
+    margin-right: 4%;
+    font-size: 12px;
+    text-align: center;
+}
+.tamaño{
+    width: 22px;
+    height: 22px;
+}
+
